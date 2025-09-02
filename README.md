@@ -9,8 +9,8 @@ En esta sección encontar todos los addons que nuestro **Script** puede instalar
 - Plugin Manager (https://kxngfranco.xyz/addons/pluginmanager/buy)p
 
 ## Instalacion de Blueprint
+Este script soporta Ubuntu y Debian en todas sus versiones
 
- _____________________________________________
-|  Sistemas Soportados |  Versiones           |
-| Ubuntu               | 24.04 LTS, 22.04 LTS |
-| Debian               | 10, 11, 12           |
+``` 
+hsusskdd
+```
