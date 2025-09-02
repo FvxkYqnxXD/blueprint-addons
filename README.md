@@ -1,2 +1,2 @@
 # Blueprint Addons Installer
-<center>[Hecho Por NikoDev/FvxkYqnx](https://kxngfranco.xyz)</center>
+<center><a href="https://kxngfranco.xyz">Hecho Por NikoDev/FvxkYqnx</a></center>
