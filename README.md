@@ -10,7 +10,7 @@ En esta sección encontar todos los addons que nuestro **Script** puede instalar
 
 ## Instalacion de Blueprint
 
- ---------------------------------------------
+ _____________________________________________
 |  Sistemas Soportados |  Versiones           |
 | Ubuntu               | 24.04 LTS, 22.04 LTS |
 | Debian               | 10, 11, 12           |
