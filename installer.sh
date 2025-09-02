@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 ################################################################################
-# Blueprint Installer for Pterodactyl (menu-driven, guldkage-style)
-# Author: You + WH
+# Blueprint Installer for Pterodactyl (menu-drive)
+# Author: FvxkYqnxXD
 # Target: /var/www/pterodactyl
-# License: MIT (adjust as you prefer)
+# License: MIT 
 ################################################################################
 set -euo pipefail
 
