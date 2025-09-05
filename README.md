@@ -12,5 +12,5 @@ En esta sección encontar todos los addons que nuestro **Script** puede instalar
 Este script soporta Ubuntu y Debian en todas sus versiones
 
 ``` 
-hsusskdd
+https://raw.githubusercontent.com/FvxkYqnxXD/blueprint-installer/refs/heads/main/installers/blueprint.sh
 ```
