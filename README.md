@@ -12,5 +12,5 @@ En esta sección encontar todos los addons que nuestro **Script** puede instalar
 Este script soporta Ubuntu y Debian en todas sus versiones
 
 ``` 
-https://raw.githubusercontent.com/FvxkYqnxXD/blueprint-installer/refs/heads/main/installers/blueprint.sh
+bash (curl -S https://raw.githubusercontent.com/FvxkYqnxXD/blueprint-installer/refs/heads/main/installers/blueprint.sh
 ```
